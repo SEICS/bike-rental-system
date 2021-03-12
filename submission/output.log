@@ -1,0 +1,38 @@
+630.0
+[Quotes [quoteID=, bike=Bike [bikeAge=2, shopID=2096672250, bikeID=123456, depositRate=0.1000000000000000055511151231257827021181583404541015625, numInStock=1, deposit=100, state=In stock, thisType=uk.ac.ed.bikerental.BikeType@6591f517, one=1.0], bike_info=, shop=BikeShop [shopID=2096672250, shopName=HAA Shop, shopLocation=uk.ac.ed.bikerental.Location@345965f2, openingHours=uk.ac.ed.bikerental.OpenHours@429bd883], price=10]]
+[Quotes [quoteID=, bike=Bike [bikeAge=2, shopID=2096672250, bikeID=123456, depositRate=0.1000000000000000055511151231257827021181583404541015625, numInStock=1, deposit=100, state=In stock, thisType=uk.ac.ed.bikerental.BikeType@6591f517, one=1.0], bike_info=, shop=BikeShop [shopID=2096672250, shopName=HAA Shop, shopLocation=uk.ac.ed.bikerental.Location@345965f2, openingHours=uk.ac.ed.bikerental.OpenHours@429bd883], price=10]]
+
+Thanks for using JUnit! Support its development at https://junit.org/sponsoring
+
+╷
+├─ JUnit Jupiter ✔
+│  ├─ TestDepreciation ✔
+│  │  ├─ testLinearDepreciation() ✔
+│  │  └─ testDoubleDecliningBalanceDepreciation() ✔
+│  ├─ TestDateRange ✔
+│  │  ├─ testOverlapsFalse() ✔
+│  │  ├─ testToYears1() ✔
+│  │  ├─ testToYears3() ✔
+│  │  └─ testOverlapsTrue() ✔
+│  ├─ TestLocation ✔
+│  │  └─ testIsNearToTrue() ✔
+│  └─ SystemTests ✔
+│     ├─ TestReturnToProvider() ✔
+│     ├─ TestBookQuote() ✔
+│     └─ TestFilterQuote() ✔
+└─ JUnit Vintage ✔
+
+Test run finished after 206 ms
+[         6 containers found      ]
+[         0 containers skipped    ]
+[         6 containers started    ]
+[         0 containers aborted    ]
+[         6 containers successful ]
+[         0 containers failed     ]
+[        10 tests found           ]
+[         0 tests skipped         ]
+[        10 tests started         ]
+[         0 tests aborted         ]
+[        10 tests successful      ]
+[         0 tests failed          ]
+
